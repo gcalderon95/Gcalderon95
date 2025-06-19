@@ -1,16 +1,18 @@
-## Hi there 👋
+<div>
+  <h2>Hola Amigo👋</h2>
+  <p><strong>Full-Stack Developer | Empowering interactivity with Artificial Intelligence </strong></p>
+  <ul>
+    <li>✒️ I use daily: <code>🐘.php</code>, <code>🐍.py</code>, <code>⚛️.js</code>, <code>🧩 .ts</code>, <code>🗃️.sql</code></li>
+    <li>⚙️ Frameworks: Laravel, React, Vue, FastAPI</li>
+    <li>📖 I’m currently learning <code>🦀.rs</code> (for performance and security) and deepening my knowledge in <code>🤖.ai</code> development for web solutions</li>
+    <li>📫 How to reach me: <a href="mailto:guillermocalde13@gmail.com">guillermocalde13@gmail.com</a> | <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">LinkedIn</a></li>
+  </ul>
+</div>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gcalderon95&show_icons=true&locale=en&layout=compact" alt="gcalderon95" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gcalderon95&show_icons=true&locale=en" alt="gcalderon95" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gcalderon95" alt="gcalderon95" /></td>
+  </tr>
+</table>
 
-<!--
-**Gcalderon95/Gcalderon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
