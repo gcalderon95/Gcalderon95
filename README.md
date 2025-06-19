@@ -8,11 +8,4 @@
     <li>📫 How to reach me: <a href="mailto:guillermocalde13@gmail.com">guillermocalde13@gmail.com</a> | <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">LinkedIn</a></li>
   </ul>
 </div>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gcalderon95&show_icons=true&locale=en&layout=compact" alt="gcalderon95" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gcalderon95&show_icons=true&locale=en" alt="gcalderon95" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gcalderon95" alt="gcalderon95" /></td>
-  </tr>
-</table>
 
