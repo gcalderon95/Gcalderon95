@@ -13,10 +13,9 @@
       </div>
     </td>
     <td valign="top" width="40%" style="text-align:center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gcalderon95&show_icons=true&locale=en&layout=compact" alt="gcalderon95" style="margin-bottom:10px;" />
-      <img src="https://github-readme-stats.vercel.app/api?username=gcalderon95&show_icons=true&locale=en" alt="gcalderon95" style="margin-bottom:10px;" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcalderon95" alt="gcalderon95" />
-    </td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gcalderon95&show_icons=true&locale=en&layout=compact" alt="gcalderon95" style="margin-bottom:10px;" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=gcalderon95&show_icons=true&locale=en" alt="gcalderon95" style="margin-bottom:10px;" width="400" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcalderon95" alt="gcalderon95" width="400" />
   </tr>
 </table>
 
